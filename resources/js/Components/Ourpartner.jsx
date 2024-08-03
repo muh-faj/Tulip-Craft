@@ -62,7 +62,7 @@ const OurPartners = () => {
                         <img src="/assets/images/partner/mui.png" alt="Partner 4" className="img-fluid" />
                     </div>
                     <div className="team-member">
-                        <img src="/assets/images/partner/pks.png" alt="Partner 4" className="img-fluid" />
+                        <img src="/assets/images/partner/kominfo.png" alt="Partner 4" className="img-fluid" />
                     </div>
                     <div className="team-member">
                         <img src="/assets/images/partner/pegadaian.png" alt="Partner 4" className="img-fluid" />
