@@ -158,7 +158,7 @@ export default function Dashboard() {
                                     <i className="fa fa-chart-bar"></i>  CHART REVENUE {new Date().getFullYear()}
                                 </div>
                                 <div className="card-body">
-                                    <Line options={options} data={data} />;
+                                    <Line options={options} data={data} />
                                 </div>
                             </div>
                         </div>
