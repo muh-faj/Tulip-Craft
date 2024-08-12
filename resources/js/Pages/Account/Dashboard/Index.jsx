@@ -59,13 +59,13 @@ export default function Dashboard() {
 
     //data chart
     const data = {
-        labels: chart.month_name,
+        labels: chart?.month_names || [],
         datasets: [
             {
                 fill: true,
                 label: 'REVENUE',
                 backgroundColor: '#bccad8',
-                data: chart.grand_total
+                data: chart?.grand_totals || []
             },
         ],
     };
